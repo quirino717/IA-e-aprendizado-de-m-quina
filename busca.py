@@ -79,9 +79,9 @@ class Jogo:
             if noh_atual.h == 0:
                 break
 
-            if noh_atual.estado not in self.closed:
-                filhos = noh_atual.gerar_filhos()
-                for noh in filhos:
+            filhos = noh_atual.gerar_filhos()
+            for noh in filhos:
+                if noh.estado not in self.closed:
                     noh.h = self.h(noh.estado)
                     self.open.append(noh)
                     self.exibe(noh.estado)
