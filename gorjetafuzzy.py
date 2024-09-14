@@ -34,8 +34,8 @@ resultado.compute()
 
 print(f'R${resultado.output['gorjeta']:.2f}')
 
-
-comida['boa'].view()
+comida.view()
 servico.view()
 gorjeta.view()
+gorjeta.view(resultado)
 plt.show()
