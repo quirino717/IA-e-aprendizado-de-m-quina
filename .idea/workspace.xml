@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b883dde9-cfde-4e51-843b-c33207f04982" name="Changes" comment="Inteligencia artificial e aprendizado de máquina">
-      <change afterPath="$PROJECT_DIR$/ML_minimos_quadrados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exer7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pessoas.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vtest.avi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +58,14 @@
     "Python.algoritmo_genetico.executor": "Run",
     "Python.astar.executor": "Run",
     "Python.busca.executor": "Run",
+    "Python.ex01.executor": "Run",
+    "Python.exer7.executor": "Run",
     "Python.fuzzy.executor": "Run",
     "Python.gorjetafuzzy.executor": "Run",
     "Python.gui.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testes.executor": "Run",
+    "Python.video.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -71,6 +77,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quiri\OneDrive\Área de Trabalho\Trabalhos\8° semestre\IA e aprendizado de maquina\IA_ML" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="A_estrela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IA_ML" />
@@ -126,7 +137,8 @@
       <workItem from="1725916135739" duration="2754000" />
       <workItem from="1726100373180" duration="4004000" />
       <workItem from="1726321237548" duration="5746000" />
-      <workItem from="1726704383932" duration="14029000" />
+      <workItem from="1726704383932" duration="16681000" />
+      <workItem from="1727132355827" duration="5640000" />
     </task>
     <task id="LOCAL-00001" summary="Inteligencia artificial e aprendizado de máquina">
       <option name="closed" value="true" />
@@ -176,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726328115193</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1726936091138</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726936091138</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,17 +219,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/IA_ML$busca.coverage" NAME="busca Coverage Results" MODIFIED="1724876127446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IA_ML$gui.coverage" NAME="gui Coverage Results" MODIFIED="1724854441140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/IA_ML$busca.coverage" NAME="busca Coverage Results" MODIFIED="1724876127446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IA_ML$testes.coverage" NAME="testes Coverage Results" MODIFIED="1725039527673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IA_ML$astar.coverage" NAME="astar Coverage Results" MODIFIED="1725035720732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/a445a5f3-504f-4705-87f6-351b8ecd242e_astar_269af97564.zip.42e" />
-    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$A_estrela.coverage" NAME="A_estrela Coverage Results" MODIFIED="1726324266763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$video.coverage" NAME="video Coverage Results" MODIFIED="1727140242770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$A_estrela.coverage" NAME="A_estrela Coverage Results" MODIFIED="1727132695904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$ex01.coverage" NAME="ex01 Coverage Results" MODIFIED="1726927827487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/4c207417-bbb1-4ff2-86a3-23ba26f64685_lab-with-html-LucasLagoeiro.zip.685/lab" />
     <SUITE FILE_PATH="coverage/IA_ML$A_estrela.coverage" NAME="A_estrela Coverage Results" MODIFIED="1724985440713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$ML_minimos_quadrados.coverage" NAME="ML_minimos_quadrados Coverage Results" MODIFIED="1726888307503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$ML_minimos_quadrados.coverage" NAME="ML_minimos_quadrados Coverage Results" MODIFIED="1726936046553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IA_ML$algoritmo_genetico.coverage" NAME="algoritmo_genetico Coverage Results" MODIFIED="1724941770324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IA_ML$main.coverage" NAME="main Coverage Results" MODIFIED="1725039869740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/5ed5766b-bdd7-4366-95bc-7478d55df796_WaveFront.zip.796" />
     <SUITE FILE_PATH="coverage/algoritmo_genetico_py$fuzzy.coverage" NAME="fuzzy Coverage Results" MODIFIED="1726327959005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/IA_ML$A_estrela_mapa.coverage" NAME="A_estrela_mapa Coverage Results" MODIFIED="1725056084223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmo_genetico_py$gorjetafuzzy.coverage" NAME="gorjetafuzzy Coverage Results" MODIFIED="1726328050510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$exer7.coverage" NAME="exer7 Coverage Results" MODIFIED="1727140601124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
