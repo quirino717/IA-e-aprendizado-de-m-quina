@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b883dde9-cfde-4e51-843b-c33207f04982" name="Changes" comment="Inteligencia artificial e aprendizado de máquina">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exer7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;quirino717&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/quirino717/IA-e-aprendizado-de-m-quina.git&quot;,
+    &quot;accountId&quot;: &quot;42878166-1bd0-484a-8779-1739c65cc89e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kvRwu6JYeJ99ATdtJYsheJ8X3P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.A_estrela.executor&quot;: &quot;Run&quot;,
+    &quot;Python.A_estrela_mapa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ML_minimos_quadrados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.algoritmo_genetico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.astar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.busca.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exer7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fuzzy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gorjetafuzzy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quiri\OneDrive\Área de Trabalho\Trabalhos\8° semestre\IA e aprendizado de maquina\IA_ML" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="A_estrela" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IA_ML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\quiri\OneDrive\Área de Trabalho\Trabalhos\8° semestre\IA e aprendizado de maquina\IA_ML\A_estrela.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.A_estrela" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b883dde9-cfde-4e51-843b-c33207f04982" name="Changes" comment="" />
+      <created>1724162305921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724162305921</updated>
+      <workItem from="1724162307290" duration="908000" />
+      <workItem from="1724201275389" duration="658000" />
+      <workItem from="1724445038429" duration="38897000" />
+      <workItem from="1725026290818" duration="19154000" />
+      <workItem from="1725319887403" duration="606000" />
+      <workItem from="1725494992369" duration="1471000" />
+      <workItem from="1725916135739" duration="2754000" />
+      <workItem from="1726100373180" duration="4004000" />
+      <workItem from="1726321237548" duration="5746000" />
+      <workItem from="1726704383932" duration="16681000" />
+      <workItem from="1727132355827" duration="5667000" />
+      <workItem from="1727643279539" duration="993000" />
+      <workItem from="1727656825134" duration="1559000" />
+      <workItem from="1728163405470" duration="100000" />
+      <workItem from="1729375753332" duration="16268000" />
+      <workItem from="1729637528767" duration="9407000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1724162593057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724162593057</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1724201768826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724201768826</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1725057250363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725057250363</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1725057276896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725057276896</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1725918889945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725918889945</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1726328115193</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726328115193</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1726936091138</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726936091138</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1727141653998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727141653998</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1729557558450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729557558450</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1729735170119</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729735170119</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Inteligencia artificial e aprendizado de máquina" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inteligencia artificial e aprendizado de máquina" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Lib/site-packages/matplotlib/pyplot.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IA_ML$busca.coverage" NAME="busca Coverage Results" MODIFIED="1724876127446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IA_ML$gui.coverage" NAME="gui Coverage Results" MODIFIED="1724854441140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$gui.coverage" NAME="gui Coverage Results" MODIFIED="1727656921555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IA_ML$testes.coverage" NAME="testes Coverage Results" MODIFIED="1725039527673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IA_ML$astar.coverage" NAME="astar Coverage Results" MODIFIED="1725035720732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/a445a5f3-504f-4705-87f6-351b8ecd242e_astar_269af97564.zip.42e" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$video.coverage" NAME="video Coverage Results" MODIFIED="1727140242770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$A_estrela.coverage" NAME="A_estrela Coverage Results" MODIFIED="1727132695904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$ex01.coverage" NAME="ex01 Coverage Results" MODIFIED="1726927827487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/4c207417-bbb1-4ff2-86a3-23ba26f64685_lab-with-html-LucasLagoeiro.zip.685/lab" />
+    <SUITE FILE_PATH="coverage/IA_ML$A_estrela.coverage" NAME="A_estrela Coverage Results" MODIFIED="1724985440713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$ML_minimos_quadrados.coverage" NAME="ML_minimos_quadrados Coverage Results" MODIFIED="1726936046553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IA_ML$algoritmo_genetico.coverage" NAME="algoritmo_genetico Coverage Results" MODIFIED="1724941770324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IA_ML$main.coverage" NAME="main Coverage Results" MODIFIED="1725039869740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/5ed5766b-bdd7-4366-95bc-7478d55df796_WaveFront.zip.796" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$fuzzy.coverage" NAME="fuzzy Coverage Results" MODIFIED="1726327959005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IA_ML$A_estrela_mapa.coverage" NAME="A_estrela_mapa Coverage Results" MODIFIED="1725056084223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmo_genetico_py$gorjetafuzzy.coverage" NAME="gorjetafuzzy Coverage Results" MODIFIED="1726328050510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="covera
