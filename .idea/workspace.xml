@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c030674-5ae2-45dc-bda6-a657fddfa198" name="Changes" comment="Inteligencia artificial e aprendizado de máquina">
-      <change afterPath="$PROJECT_DIR$/MDP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QLearning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projeto/testee.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exer7.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projeto/agrupamento.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/agrupamento.ipynb" afterDir="false" />
@@ -22,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -55,11 +54,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.MDP.executor&quot;: &quot;Run&quot;,
     &quot;Python.QLearning.executor&quot;: &quot;Run&quot;,
     &quot;Python.QLearning_Python.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/quiri/OneDrive/Área de Trabalho/Trabalhos/8° semestre/IA e aprendizado de maquina/IA_ML&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -146,7 +147,9 @@
       <workItem from="1730533124081" duration="3025000" />
       <workItem from="1730752013560" duration="39347000" />
       <workItem from="1731111339382" duration="11246000" />
-      <workItem from="1731165896272" duration="16745000" />
+      <workItem from="1731165896272" duration="16912000" />
+      <workItem from="1731266878292" duration="23854000" />
+      <workItem from="1731297354895" duration="1692000" />
     </task>
     <task id="LOCAL-00004" summary="Inteligencia artificial e aprendizado de máquina">
       <option name="closed" value="true" />
@@ -156,13 +159,30 @@
       <option name="project" value="LOCAL" />
       <updated>1730081760782</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Projeto de Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1731186857676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731186857676</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1731186918337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731186918337</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto de Inteligencia artificial e aprendizado de máquina" />
     <MESSAGE value="Inteligencia artificial e aprendizado de máquina" />
     <option name="LAST_COMMIT_MESSAGE" value="Inteligencia artificial e aprendizado de máquina" />
   </component>
