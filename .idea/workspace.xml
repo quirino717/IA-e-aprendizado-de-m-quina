@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c030674-5ae2-45dc-bda6-a657fddfa198" name="Changes" comment="Inteligencia artificial e aprendizado de máquina">
-      <change afterPath="$PROJECT_DIR$/projeto/testee.ipynb" afterDir="false" />
+    <list default="true" id="5c030674-5ae2-45dc-bda6-a657fddfa198" name="Changes" comment="Projeto de inteligencia artificial e aprendizado de máquina">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exer7.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projeto/agrupamento.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/agrupamento.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projeto/classificacao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/classificacao.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projeto/regressao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/regressao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/testee.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/video.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +149,8 @@
       <workItem from="1731111339382" duration="11246000" />
       <workItem from="1731165896272" duration="16912000" />
       <workItem from="1731266878292" duration="23854000" />
-      <workItem from="1731297354895" duration="1692000" />
+      <workItem from="1731297354895" duration="1829000" />
+      <workItem from="1731353335622" duration="20929000" />
     </task>
     <task id="LOCAL-00004" summary="Inteligencia artificial e aprendizado de máquina">
       <option name="closed" value="true" />
@@ -175,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731186918337</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Projeto de inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1731299258393</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731299258393</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +193,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projeto de Inteligencia artificial e aprendizado de máquina" />
     <MESSAGE value="Inteligencia artificial e aprendizado de máquina" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inteligencia artificial e aprendizado de máquina" />
+    <MESSAGE value="Projeto de inteligencia artificial e aprendizado de máquina" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto de inteligencia artificial e aprendizado de máquina" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algoritmo_genetico_py$MDP.coverage" NAME="MDP Coverage Results" MODIFIED="1730336750940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
