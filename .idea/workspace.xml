@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exer7.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projeto/agrupamento.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/agrupamento.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto/classificacao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/classificacao.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto/regressao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projeto/regressao.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projeto/testee.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/video.py" beforeDir="false" />
     </list>
@@ -150,7 +148,11 @@
       <workItem from="1731165896272" duration="16912000" />
       <workItem from="1731266878292" duration="23854000" />
       <workItem from="1731297354895" duration="1829000" />
-      <workItem from="1731353335622" duration="20929000" />
+      <workItem from="1731353335622" duration="20991000" />
+      <workItem from="1731454410975" duration="2317000" />
+      <workItem from="1731638131706" duration="38000" />
+      <workItem from="1731950083285" duration="5214000" />
+      <workItem from="1732146034368" duration="5196000" />
     </task>
     <task id="LOCAL-00004" summary="Inteligencia artificial e aprendizado de máquina">
       <option name="closed" value="true" />
@@ -184,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731299258393</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Projeto de inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1731380746093</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731380746093</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Projeto de inteligencia artificial e aprendizado de máquina">
+      <option name="closed" value="true" />
+      <created>1731955759985</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731955759988</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
